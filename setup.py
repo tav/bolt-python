@@ -54,7 +54,7 @@ setup(
     license="Public Domain",
     long_description=open('README.rst').read(),
     packages=["bolt"],
-    url="https://github.com/tav/bolt",
+    url="https://github.com/tav/bolt-python",
     version="0.9",
     zip_safe=True
     )
