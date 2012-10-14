@@ -1,3 +1,8 @@
+**Note:** This is the original Python version. You can find the Go version that
+is currently being developed at:
+
+* https://github.com/tav/bolt
+
 Bolt lets you easily automate sysadmin tasks like deployment. You can use it to
 manage multi-server setups over SSH or even as a build tool. To use, simply
 create a ``Boltfile`` with your tasks, e.g.
